@@ -1,0 +1,22 @@
+body{
+	background-color: #b3b3b3;
+}
+#image{
+    line-height:650px;
+	width: 575px;
+    height: 650px;
+	border:10px solid #666666;
+	margin:0 auto;
+    background-color: #888888;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#FFFFFF;
+    background-size: 100%;
+    margin-bottom:20px;
+    font-size: 1.5rem;
+
+}
+.table{
+    background-color: #7368B4;
+
+}
